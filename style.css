@@ -129,16 +129,17 @@
     padding: 0px 450px 0px;
 }
 
-.testimonial-intro {
+.testimonial-intro h1{
     color: #1f2937;
     font-size: 36px;
+    font-weight: 300;
     font-style: italic;
     margin-bottom: 30px;
 }
 
 .testimonial-author {
     text-align: end;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
 }
 
