@@ -144,3 +144,39 @@
 }
 
 
+/* SIGN UP */
+
+.signup {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.signup .container {
+    background-color: #3882f6;
+    width: 75%;
+    height: 40%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.signup-intro {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.signup-btn button{
+    border: none;
+    padding: 8px 30px 8px;
+    font-size: 18px;
+    border: 2px solid white;
+    background-color: transparent;
+    color: #f9faf8;
+    border-radius: 10px;
+}
+
+
