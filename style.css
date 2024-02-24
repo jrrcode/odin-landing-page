@@ -179,4 +179,13 @@
     border-radius: 10px;
 }
 
+/* FOOTER */
+
+footer {
+    background-color: #1f2937;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
 
