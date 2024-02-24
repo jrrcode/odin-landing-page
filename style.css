@@ -10,8 +10,7 @@
 
 
 .hero-page,
-.tourist-spot,
-.testimonials {
+.tourist-spot {
     padding: 0px 300px 0px;
 
 }
@@ -127,6 +126,14 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding: 0px 450px 0px;
+}
+
+.testimonial-intro {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    margin-bottom: 30px;
 }
 
 .testimonial-author {
@@ -135,10 +142,4 @@
     font-weight: bold;
 }
 
-.testimonial-intro {
-    color: #1f2937;
-    font-size: 36px;
-    font-weight: 100;
-    font-style: italic;
-}
 
