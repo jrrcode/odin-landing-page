@@ -1,12 +1,17 @@
+/* GLOBAL VALUES */
+
 * {
     margin: 0;
     padding: 0;
 }
 
+
 .hero-page {
     padding: 0px 300px 0px;
     background-color: #1f2937;
 }
+
+/* NAVBAR */
 
 .top-nav {
     background-color: #1f2937;
@@ -34,6 +39,8 @@
     font-size: 18px;
     color: #e5e7eb;
 }
+
+/* HERO PAGE */
 
 .hero-page {    
     border: 2px solid red;
